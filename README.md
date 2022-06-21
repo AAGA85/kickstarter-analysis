@@ -35,8 +35,15 @@ Excel has been a powerful tool to develop the required analysis and get the answ
 **What are two conclusions you can draw about the Theater Outcomes by Launch Date?**
 Based on the analyzed data, the report shows that the most successful theater projects are launched in May and June but also the rate of failed projects is high in the same months. Nevertheless, the variability of failed projects is minimal across the year. The month with the lowest number of successful projects is December then this month should be avoided to launch a project.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106939511/174707119-898ccf7e-206f-4b84-bd41-24819f044f97.png)
+
+
+
 **What can you conclude about the Outcomes based on Goals?**
 Based on the analyzed data, the line chart shows that projects with a funding goal less than $5000 have a high rate to be successful but projects over $45000 have the highest rate to fail. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106939511/174707153-76156d79-c7aa-444a-a57e-b532a2e70b13.png)
+
 
 **What are some limitations of this dataset?**
 The limitation of this dataset is the capability to match several variables in one single graph. Then the data need to be split on several graphs and then the user or analyst would need to match the different results to get the big picture. Besides that, the existed templates that we can use to explain the data are not intuitive, so the user hast to spend a lot of time correcting the format of the template and verifying data entry to get the expected visualization of the data. 
